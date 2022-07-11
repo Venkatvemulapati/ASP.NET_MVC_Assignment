@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:CODE_BASE_6_WEB_API_JQUERY_Context"
+    }
+  }
+}
